@@ -1,0 +1,79 @@
+#title {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	font-family: sans-serif, arial;
+}
+
+#description {
+	text-align: center;
+	font-size: 18px;
+	font-family: fantasy, arial;
+}
+
+form {
+	width: 400px;
+	background: orange;
+	padding: 5% 9% 30px 60px;
+	border: 2px solid black;
+	margin: 0px auto;
+	
+}
+
+#name, #email, #number {
+	width: 300px;
+	height: 30px;
+	border: 1px solid black;
+}
+
+#number {
+	margin-left: 12px;
+}
+textarea {
+	resize: none;
+	border: 1px solid black;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+button {
+	font-size: 17px;
+}
+
+#submit {
+	background: red;
+	color: white;
+	border: 1px solid black;
+	border-radius: 20px;
+	width: 200px;
+	height: 40px;
+
+}
+
+#submit:hover {
+	background: purple;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
